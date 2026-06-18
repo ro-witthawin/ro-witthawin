@@ -19,4 +19,7 @@ I am <del>an AI Researcher</del> <b> a Photographer</b>.
   <a href="https://www.facebook.com/RoWitthawin" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
+  <a href="https://ro-witthawin.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Profile" alt="Profile">
+  </a>
 </div>
